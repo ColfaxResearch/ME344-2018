@@ -29,9 +29,9 @@ solution-02:
 	cp -v solutions/02-parallel-for/src/* ./src/
 
 solution-03:
-	$(info Copying code from solutions/03-tasks/)
-	cp -v solutions/03-tasks/Makefile ./
-	cp -v solutions/03-tasks/src/* ./src/
+	$(info Copying code from solutions/03-semaphores/)
+	cp -v solutions/03-semaphores/Makefile ./
+	cp -v solutions/03-semaphores/src/* ./src/
 
 solution-04:
 	$(info Copying code from solutions/04-mkl/)
